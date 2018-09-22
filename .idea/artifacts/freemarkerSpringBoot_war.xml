@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="freemarkerSpringBoot:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="freemarkerSpringBoot.war">
+      <element id="artifact" artifact-name="freemarkerSpringBoot:war exploded" />
+    </root>
+  </artifact>
+</component>
